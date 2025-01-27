@@ -22,8 +22,7 @@ function adicionarAmigo(){
             amigos.push(nomeSugerido.value);
             exibirNome();
             limparCampo()
-        }      
-      
+        }        
              
 }
 
